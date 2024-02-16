@@ -5,7 +5,7 @@ API Countries provides data such as capital, population, currency, and continent
 
 ## Installation
 To get started with the API, follow these steps:
-1. Clone the project: `git clone [...](https://github.com/bem-bola/apiCountries.git)`
+1. Clone the project: `git clone https://github.com/bem-bola/apiCountries.git`
 2. Navigate to the root directory of the project.
 3. Install dependencies: `npm install`
 4. Start the server using nodemon: `npm start`
