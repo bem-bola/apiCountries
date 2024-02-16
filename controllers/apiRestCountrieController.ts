@@ -152,7 +152,6 @@ public async getCountriesByContinent(req: Request, res: Response, next: NextFunc
                     capital: string[],
                     flags: { png: string },
                     continents: string[]
-
                 }) => ({
                 name: item.name.common,
                 fullname: item.name.official,
